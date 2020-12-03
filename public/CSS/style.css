@@ -1,6 +1,6 @@
 .bg-photo {
   position: fixed;
-  background-image: url(../image/background.png);
+  background-image: url(/static/image/background.png);
   background-repeat: no-repeat;
   background-color: black;
   top: 0%;
